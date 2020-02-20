@@ -1,0 +1,6 @@
+Time For Run 1:  0.001131 seconds
+Time For Run 2:  0.001293 seconds
+Time For Run 3:  0.001416 seconds
+Average Time for Bubble Sort Desc:  0.00128 seconds
+
+The average of the 3 times calculated for each of the runs is a bit quicker when calculated in DESC order than when calculated in ASC order using the built in sorting method, although it was still quite faster than using the bubble sorting method from the other programs.
